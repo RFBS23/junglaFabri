@@ -1,13 +1,15 @@
 # La Jungla de Fabri
 
-Mi primer Proyecto creado Con UNITY y c#.
+Mi primer Proyecto creado Con Unity y c#.
 
-## Aplicación de escaneo de código QR y generador de código QR hecho con flutter
+## Este Videojuego es de shooters
 
 <div style="display: flex;">
   <h5>VERSION 1.0.0</h5>
+  <br>
   <a class="py-2" align="center">
-    <img src="readme/video.mp4" alt="version 1.0" style="margin-right: 10px; width: 250px; height: 500px;">
+  <br><br>
+    <img src="readme/video.gif" alt="version 1.0" style="width: 500px; height: 300px;">
   </a>
   <br>
 </div>
